@@ -8,12 +8,12 @@ This is a description...
 
 ## Sections
 
-* 3D-printed Partlist
-* Bill of Assembly
-* Assembly Guide
-* Electronics
-* Progrqmming
-* Inverse Kinematics
+* [3D-printed Partlist](#)
+* [Bill of Assembly](#)
+* [Assembly Guide](#)
+* [Electronics](#)
+* [Programming](#)
+* [Inverse Kinematics](#)
 
 ### Bill of Material
 
