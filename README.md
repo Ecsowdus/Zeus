@@ -15,8 +15,15 @@ This is a description...
 * [Programming](#)
 * [Inverse Kinematics](#)
 
-### Bill of Material
+### Bill of Material  
+The following Section will describe in detail the different parts needed for your own SpotMicroESP32 build, with at least some rough estimate of the price.
 
 ### 3D-printing
 
-### Electronics
+### Electronics  
+
+| Part or module | Quantity | Short description | Status | Estimated Price |
+|----------------|----------|-------------------|--------|-----------------|
+|                |          |                   |        |                 |
+|                |          |                   |        |                 |
+|                |          |                   |        |                 |
